@@ -1,5 +1,3 @@
-package cse214hw2;
-
 public enum Operator {
     // lower rank indicates higher priority or precedence
     LEFT_PARENTHESIS('(', 0),
