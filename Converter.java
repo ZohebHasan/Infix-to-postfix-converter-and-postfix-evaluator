@@ -1,5 +1,3 @@
-package cse214hw2;
-
 public interface Converter {
     String convert(ArithmeticExpression expression);
 
