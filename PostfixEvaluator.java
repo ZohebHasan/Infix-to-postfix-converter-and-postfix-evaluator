@@ -1,4 +1,3 @@
-package cse214hw2;
 import java.util.Stack;
 
 public class PostfixEvaluator implements Evaluator {
